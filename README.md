@@ -1,17 +1,16 @@
-# 👋 Hi! My name is **Daniel Veloso**.
-## Welcome to my Github profile!
+### 👋 Hi, Welcome to my Github profile!
+#### My name is Daniel. I am a full-stack ASP.NET developer
 
-<!--
-**Daniel-Veloso/Daniel-Veloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### SKILLS:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 
-Here are some ideas to get you started:
+##### LEARNING:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> 
+
+##### MORE:
 
 - 🏢 I’m currently working on **municipal government of Santana de Parnaíba**.
 - 🌱 I’m currently learning Dart and Flutter.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.cs`, `.js`, `.cshtml`, `.css`
+
+- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-ferreira-veloso-15b5a634)
