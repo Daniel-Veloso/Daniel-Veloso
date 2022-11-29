@@ -13,4 +13,4 @@
 - 🌱 I’m currently learning Dart and Flutter.
 - ⚙️ I use daily: `.cs`, `.js`, `.cshtml`, `.css`
 
-- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-ferreira-veloso-15b5a634)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/daniel-ferreira-veloso-15b5a634" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
